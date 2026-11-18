@@ -1,0 +1,12 @@
+Starting CI/CD pipeline...
+
+Installing Python dependencies...
+
+Running application tests...
+
+ERROR: ConnectionError:
+Failed to connect to database server.
+
+Pipeline failed.
+
+Exit code: 1
